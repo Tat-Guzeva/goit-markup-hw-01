@@ -1,0 +1,12 @@
+body {
+  margin: 0;
+}
+.background {
+  background-image: url(../images/take.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  width: 960px;
+  height: 600px;
+  margin: 0 auto;
+}
